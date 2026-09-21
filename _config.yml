@@ -3,3 +3,7 @@ title: "Abigail Estervil's Blog"
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# remote_theme: pages-themes/merlot@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one //in case you want to change back to merlot
