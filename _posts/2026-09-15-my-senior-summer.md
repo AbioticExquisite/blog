@@ -2,7 +2,7 @@
 You must be here to see how my senior summer went! Well, buckle up and get ready for quite the ride... yeah let's just get this started.
 
 
-My summer started off very boring. Minus the "endless" Roblox hours. I honestly thought I wasn't going to do anything. No events, no parties, no trips. Well, besides grocery shopping days and the WordED externship. Now, before you say anything, yes. "Externship" is a word. I did a Cyber Discovery Program. In that program, we used KC7 which is a website used to experience different scenarios in how to seek out hackers and bugs in hacked websites. Towards the end of the externship, we had a trip to the Botanic Garden in Washington Ave. There, we used AI to determine at least 10 plants and to check its accuracy for our final project.
+My summer started off very boring. Minus the "endless" Roblox hours and other hobbies I shant get into. I honestly thought I wasn't going to do anything. No events, no parties, no trips. Well, besides grocery shopping days and the WordED externship. Now, before you say anything, yes. "Externship" is a word. Now, before I continue, this summer to me meant new discoveries. Being a tourist in my very own hometown--or home-state. The place I've lived in for my whole life! First, I managed to do that externship called "Cyber Discovery." In that program, we used KC7 which is a website used to experience different scenarios in how to seek out hackers and bugs in hacked websites. Towards the end of the externship, we had a trip to the Botanic Garden in Washington Ave. There, we used AI to determine at least 10 plants and to check its accuracy for our final project.
 
 
 ![Fountain](/assets/images/botanicgardenfountain.png "Botanic Garden Fountain")
@@ -42,3 +42,13 @@ Lastly, my oldest brother, his girlfriend, and I went to the Shirley Chisholm St
 
 ![Shirley Chisholm View](/assets/images/portraitshirleychis.png "Shirley Chisholm State Park")
 ![Shirley Chisholm Park Lake View](/assets/images/shirleychislake.png "Shirley Chisholm Lake")
+
+
+## What's Next?
+
+
+With all that fun-ness aside, I also managed to start my applications for college. I'm so glad my English teacher during my junior year had us start on our college essays. I definitely needed that head start. I'm still a bit perplexed on what I want to be, but thankfully I have ideas. If you've seen my portfolio, you will know what's on my mind. This was a very eventful summer and I'm glad I didn't see it coming. I love surprises and as long as I know that my future holds something meaningful and... well, not on the streets helpless, I will keep my head high and keep moving forward. There's no stopping now. This is only the beginning.
+
+Stay blessed and do it all with love,
+Abigail :)
+
