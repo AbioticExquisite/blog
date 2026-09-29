@@ -4,9 +4,9 @@ You must be here to see how my senior summer went! Well, buckle up and get ready
 
 My summer started off very boring. Minus the "endless" Roblox hours and other hobbies I shant get into. I honestly thought I wasn't going to do anything. No events, no parties, no trips. Well, besides grocery shopping days and the WordED externship. Now, before you say anything, yes. "Externship" is a word. Now, before I continue, this summer to me meant new discoveries. Being a tourist in my very own hometown--or home-state. The place I've lived in for my whole life! First, I managed to do that externship called "Cyber Discovery." In that program, we used KC7 which is a website used to experience different scenarios in how to seek out hackers and bugs in hacked websites. Towards the end of the externship, we had a trip to the Botanic Garden in Washington Ave. There, we used AI to determine at least 10 plants and to check its accuracy for our final project.
 
-<img src="sweetamber.png" width="200">
-![Fountain](/assets/images/botanicgardenfountain.png "Botanic Garden Fountain")
-![Sweet Amber](/assets/images/sweetamber.png "Botanic Garden Flower")
+
+![Fountain](/blog/images/botanicgardenfountain.png "Botanic Garden Fountain")
+![Sweet Amber](/blog/images/sweetamber.png "Botanic Garden Flower")
 
 
 ## Prospect Park / 08-19
@@ -21,7 +21,7 @@ Besides that, one day, my eldest brother asked me if I wanted to go to Prospect 
 In August 25, we went to the beach! I added an exclamation mark because guess what? It was my first time at one. Before the beach, we went to Luna Park where my brother's girlfriend won me a plushie. He says we only went to Luna Park because of me so I'd be encouraged to go since I was on the verge of not going at all. We got funnel cake (it was BOMB--do people still say that?) and I tried churros for the first time. I know, I know. I missed out on a LOT. But that's what made this summer so fun! I was unlocking so much experiences that I actually have no idea whether I did or not and just forgot.
 
 
-![Luna Park](/assets/images/lunapark.png "Luna Park")
+![Luna Park](/blog/images/lunapark.png "Luna Park")
 
 
 ## Governors' Island / 08-26
@@ -30,8 +30,8 @@ In August 25, we went to the beach! I added an exclamation mark because guess wh
 But what I do know for sure is that I've definitely never been on an ISLAND and a SHIP to get over. Literally the day after the beach, we went to Governors' Island. That's the second time I biked in my whole life without training wheels. We spent about 30 minutes biking, my youngest-oldest brother chose a car (forgot what it's called), and my eldest one alongside my mom and grandma rode those four-seated bikes. I think they're called a surrey. Afterwards we had a little picnic with Mexican food. I had nachos, my grandma had quesadillas, my three brothers--in order--got a burrito, burger, and... I forgot what the second one got.
 
 
-![Ship to Governers' Island View](/assets/images/shiptoisland.png "Ship View")
-![Ship](/assets/images/ship2.png "Ship")
+![Ship to Governers' Island View](/blog/images/shiptoisland.png "Ship View")
+![Ship](/blog/images/ship2.png "Ship")
 
 
 ## Shirley Chisholm State Park / 09-04
@@ -40,8 +40,8 @@ But what I do know for sure is that I've definitely never been on an ISLAND and 
 Lastly, my oldest brother, his girlfriend, and I went to the Shirley Chisholm State Park. My other brothers couldn't come because they had school, heh. This was where I mastered my bike riding skills. We rode around the park and made some stops for pictures. I also tried skipping rocks during one of the stops. I didn't know it was going to be THAT HARD. I managed to skip twice in a row, never did it again.
 
 
-![Shirley Chisholm View](/assets/images/portraitshirleychis.png "Shirley Chisholm State Park")
-![Shirley Chisholm Park Lake View](/assets/images/shirleychislake.png "Shirley Chisholm Lake")
+![Shirley Chisholm View](/blog/images/portraitshirleychis.png "Shirley Chisholm State Park")
+![Shirley Chisholm Park Lake View](/blog/images/shirleychislake.png "Shirley Chisholm Lake")
 
 
 ## What's Next?
@@ -52,4 +52,4 @@ With all that fun-ness aside, I also managed to start my applications for colleg
 Stay blessed and do it all with love,<br>
 Abigail :)
 
-&copy2026 AbioticExquisite. All rights reserved.
+©2026 AbioticExquisite. All rights reserved.
